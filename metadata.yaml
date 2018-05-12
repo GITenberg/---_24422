@@ -1,0 +1,26 @@
+_repo: '---_24422'
+_version: 0.1.0
+alternative_title: Ding qing ren
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tianhuazangzhuren
+    alias: 天花藏主人
+    gutenberg_agent_id: '26107'
+    url: http://www.gutenberg.org/2009/agents/26107
+description: ''
+gutenberg_issued: '2008-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24422'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+title: 定情人
+url: http://www.gutenberg.org/ebooks/24422
